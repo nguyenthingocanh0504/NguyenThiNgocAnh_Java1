@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aef4667-d2bc-4131-8389-df273e6dc7b6" name="Changes" comment="abc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cau1/Circle.java" afterDir="false" />
+    <list default="true" id="8aef4667-d2bc-4131-8389-df273e6dc7b6" name="Changes" comment="Cau1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cau2/KyThuat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cau2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cau2/NhanVien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cau1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cau1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678260948462</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cau1">
+      <created>1678262744285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678262744285</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="abc" />
-    <option name="LAST_COMMIT_MESSAGE" value="abc" />
+    <MESSAGE value="Cau1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cau1" />
   </component>
 </project>

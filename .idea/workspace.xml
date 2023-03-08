@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aef4667-d2bc-4131-8389-df273e6dc7b6" name="Changes" comment="Cau1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cau2/KyThuat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cau2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cau2/NhanVien.java" afterDir="false" />
+    <list default="true" id="8aef4667-d2bc-4131-8389-df273e6dc7b6" name="Changes" comment="Cau2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cau3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cau3/VanBan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678262744285</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cau2">
+      <created>1678263872293</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678263872293</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cau2">
+      <created>1678263917671</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678263917671</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="abc" />
     <MESSAGE value="Cau1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cau1" />
+    <MESSAGE value="Cau2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cau2" />
   </component>
 </project>
